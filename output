@@ -1,0 +1,208 @@
+ rank =            0  n_s =            8  n_r =           14
+ rank =            5  n_s =            8  n_r =           10
+ rank =            7  n_s =            8  n_r =           10
+ rank =            4  n_s =            8  n_r =           10
+ rank =            6  n_s =            8  n_r =           10
+ rank =            1  n_s =            8  n_r =           10
+ rank =            2  n_s =            8  n_r =           10
+ rank =            3  n_s =            8  n_r =           10
+ rank =            5  running for source =            1  s_c =    2.91041660       2.91041660       3.17499995    
+ rank =            5 source - s =    2.91041660       2.91041660       3.17499995     sn =    0.00000000       0.00000000      0.630039155    
+ rank =            5 exiting get_deposition
+ rank =            5  running for source =            2  s_c =    2.64583325       2.64583325       3.17499995    
+ rank =            5 source - s =    2.64583325       2.64583325       3.17499995     sn =    0.00000000       0.00000000      0.630039155    
+ rank =            5 exiting get_deposition
+ rank =            5  running for source =            3  s_c =    2.91041660       2.11666656       3.17499995    
+ rank =            5 source - s =    2.91041660       2.11666656       3.17499995     sn =    0.00000000       0.00000000      0.630039036    
+ rank =            5 exiting get_deposition
+ rank =            5  running for source =            4  s_c =    2.64583325       1.85208333       3.17499995    
+ rank =            5 source - s =    2.64583325       1.85208333       3.17499995     sn =    0.00000000       0.00000000      0.630039036    
+ rank =            5 exiting get_deposition
+ rank =            5  running for source =            5  s_c =    2.91041660       1.32291663       3.17499995    
+ rank =            5 source - s =    2.91041660       1.32291663       3.17499995     sn =    0.00000000       0.00000000      0.630039096    
+ rank =            5 exiting get_deposition
+ rank =            5  running for source =            6  s_c =    2.64583325       1.05833328       3.17499995    
+ rank =            5 source - s =    2.64583325       1.05833328       3.17499995     sn =    0.00000000       0.00000000      0.630039096    
+ rank =            5 exiting get_deposition
+ rank =            5  running for source =            7  s_c =    2.11666656       2.91041660       3.17499995    
+ rank =            5 source - s =    2.11666656       2.91041660       3.17499995     sn =    0.00000000       0.00000000      0.630039036    
+ rank =            5 exiting get_deposition
+ rank =            5  running for source =            8  s_c =    1.85208333       2.64583325       3.17499995    
+ rank =            5 source - s =    1.85208333       2.64583325       3.17499995     sn =    0.00000000       0.00000000      0.630039036    
+ rank =            5 exiting get_deposition
+ rank =            5  finished
+ rank =            7  running for source =            1  s_c =    1.32291663       1.32291663       3.17499995    
+ rank =            7 source - s =    1.32291663       1.32291663       3.17499995     sn =    0.00000000       0.00000000      0.630039036    
+ rank =            7 exiting get_deposition
+ rank =            7  running for source =            2  s_c =    1.05833328       1.05833328       3.17499995    
+ rank =            7 source - s =    1.05833328       1.05833328       3.17499995     sn =    0.00000000       0.00000000      0.630039036    
+ rank =            7 exiting get_deposition
+ rank =            7  running for source =            3  s_c =   0.529166639       2.91041660       3.17499995    
+ rank =            7 source - s =   0.529166639       2.91041660       3.17499995     sn =    0.00000000       0.00000000      0.630039096    
+ rank =            7 exiting get_deposition
+ rank =            7  running for source =            4  s_c =   0.264583319       2.64583325       3.17499995    
+ rank =            7 source - s =   0.264583319       2.64583325       3.17499995     sn =    0.00000000       0.00000000      0.630039096    
+ rank =            7 exiting get_deposition
+ rank =            7  running for source =            5  s_c =   0.529166639       2.11666656       3.17499995    
+ rank =            7 source - s =   0.529166639       2.11666656       3.17499995     sn =    0.00000000       0.00000000      0.630038977    
+ rank =            7 exiting get_deposition
+ rank =            7  running for source =            6  s_c =   0.264583319       1.85208333       3.17499995    
+ rank =            7 source - s =   0.264583319       1.85208333       3.17499995     sn =    0.00000000       0.00000000      0.630038977    
+ rank =            7 exiting get_deposition
+ rank =            7  running for source =            7  s_c =   0.529166639       1.32291663       3.17499995    
+ rank =            7 source - s =   0.529166639       1.32291663       3.17499995     sn =    0.00000000       0.00000000      0.630039036    
+ rank =            7 exiting get_deposition
+ rank =            7  running for source =            8  s_c =   0.264583319       1.05833328       3.17499995    
+ rank =            7 source - s =   0.264583319       1.05833328       3.17499995     sn =    0.00000000       0.00000000      0.630039036    
+ rank =            7 exiting get_deposition
+ rank =            7  finished
+ rank =            3  running for source =            1  s_c =    1.32291663      0.529166639       3.17499995    
+ rank =            3 source - s =    1.32291663      0.529166639       3.17499995     sn =    0.00000000      -0.00000000      0.630039036    
+ rank =            3 exiting get_deposition
+ rank =            3  running for source =            2  s_c =    1.05833328      0.264583319       3.17499995    
+ rank =            3 source - s =    1.05833328      0.264583319       3.17499995     sn =    0.00000000       0.00000000      0.630039036    
+ rank =            3 exiting get_deposition
+ rank =            3  running for source =            3  s_c =   0.529166639      0.529166639       3.17499995    
+ rank =            3 source - s =   0.529166639      0.529166639       3.17499995     sn =    0.00000000      -0.00000000      0.630039036    
+ rank =            3 exiting get_deposition
+ rank =            3  running for source =            4  s_c =   0.264583319      0.264583319       3.17499995    
+ rank =            3 source - s =   0.264583319      0.264583319       3.17499995     sn =    0.00000000       0.00000000      0.630039036    
+ rank =            3 exiting get_deposition
+ rank =            3  running for source =            5  s_c =    4.49791670       2.91041660       3.17499995    
+ rank =            3 source - s =    4.49791670       2.91041660       3.17499995     sn =    0.00000000       0.00000000      0.630038977    
+ rank =            3 exiting get_deposition
+ rank =            3  running for source =            6  s_c =    4.23333311       2.64583325       3.17499995    
+ rank =            3 source - s =    4.23333311       2.64583325       3.17499995     sn =    0.00000000       0.00000000      0.630038977    
+ rank =            3 exiting get_deposition
+ rank =            3  running for source =            7  s_c =    4.49791670       2.11666656       3.17499995    
+ rank =            3 source - s =    4.49791670       2.11666656       3.17499995     sn =    0.00000000       0.00000000      0.630038857    
+ rank =            3 exiting get_deposition
+ rank =            3  running for source =            8  s_c =    4.23333311       1.85208333       3.17499995    
+ rank =            3 source - s =    4.23333311       1.85208333       3.17499995     sn =    0.00000000       0.00000000      0.630038857    
+ rank =            3 exiting get_deposition
+ rank =            3  finished
+ rank =            1  running for source =            1  s_c =    5.29166651       2.91041660       3.17499995    
+ rank =            1 source - s =    5.29166651       2.91041660       3.17499995     sn =    0.00000000       0.00000000      0.630039334    
+ rank =            1 exiting get_deposition
+ rank =            1  running for source =            2  s_c =    5.02708340       2.64583325       3.17499995    
+ rank =            1 source - s =    5.02708340       2.64583325       3.17499995     sn =    0.00000000       0.00000000      0.630039334    
+ rank =            1 exiting get_deposition
+ rank =            1  running for source =            3  s_c =    5.29166651       2.11666656       3.17499995    
+ rank =            1 source - s =    5.29166651       2.11666656       3.17499995     sn =    0.00000000       0.00000000      0.630039215    
+ rank =            1 exiting get_deposition
+ rank =            1  running for source =            4  s_c =    5.02708340       1.85208333       3.17499995    
+ rank =            1 source - s =    5.02708340       1.85208333       3.17499995     sn =    0.00000000       0.00000000      0.630039215    
+ rank =            1 exiting get_deposition
+ rank =            1  running for source =            5  s_c =    5.29166651       1.32291663       3.17499995    
+ rank =            1 source - s =    5.29166651       1.32291663       3.17499995     sn =    0.00000000       0.00000000      0.630039275    
+ rank =            1 exiting get_deposition
+ rank =            1  running for source =            6  s_c =    5.02708340       1.05833328       3.17499995    
+ rank =            1 source - s =    5.02708340       1.05833328       3.17499995     sn =    0.00000000       0.00000000      0.630039275    
+ rank =            1 exiting get_deposition
+ rank =            1  running for source =            7  s_c =    5.29166651      0.529166639       3.17499995    
+ rank =            1 source - s =    5.29166651      0.529166639       3.17499995     sn =    0.00000000       0.00000000      0.630039275    
+ rank =            1 exiting get_deposition
+ rank =            1  running for source =            8  s_c =    5.02708340      0.264583319       3.17499995    
+ rank =            1 source - s =    5.02708340      0.264583319       3.17499995     sn =    0.00000000       0.00000000      0.630039275    
+ rank =            1 exiting get_deposition
+ rank =            1  finished
+ rank =            2  running for source =            1  s_c =    4.49791670      0.529166639       3.17499995    
+ rank =            2 source - s =    4.49791670      0.529166639       3.17499995     sn =    0.00000000      -0.00000000      0.630038917    
+ rank =            2 exiting get_deposition
+ rank =            2  running for source =            2  s_c =    4.23333311      0.264583319       3.17499995    
+ rank =            2 source - s =    4.23333311      0.264583319       3.17499995     sn =    0.00000000       0.00000000      0.630038917    
+ rank =            2 exiting get_deposition
+ rank =            2  running for source =            3  s_c =    3.70416665      0.529166639       3.17499995    
+ rank =            2 source - s =    3.70416665      0.529166639       3.17499995     sn =    0.00000000      -0.00000000      0.630039096    
+ rank =            2 exiting get_deposition
+ rank =            2  running for source =            4  s_c =    3.43958354      0.264583319       3.17499995    
+ rank =            2 source - s =    3.43958354      0.264583319       3.17499995     sn =    0.00000000       0.00000000      0.630039096    
+ rank =            2 exiting get_deposition
+ rank =            2  running for source =            5  s_c =    2.91041660      0.529166639       3.17499995    
+ rank =            2 source - s =    2.91041660      0.529166639       3.17499995     sn =    0.00000000      -0.00000000      0.630039096    
+ rank =            2 exiting get_deposition
+ rank =            2  running for source =            6  s_c =    2.64583325      0.264583319       3.17499995    
+ rank =            2 source - s =    2.64583325      0.264583319       3.17499995     sn =    0.00000000       0.00000000      0.630039096    
+ rank =            2 exiting get_deposition
+ rank =            2  running for source =            7  s_c =    2.11666656      0.529166639       3.17499995    
+ rank =            2 source - s =    2.11666656      0.529166639       3.17499995     sn =    0.00000000      -0.00000000      0.630038977    
+ rank =            2 exiting get_deposition
+ rank =            2  running for source =            8  s_c =    1.85208333      0.264583319       3.17499995    
+ rank =            2 source - s =    1.85208333      0.264583319       3.17499995     sn =    0.00000000       0.00000000      0.630038977    
+ rank =            2 exiting get_deposition
+ rank =            2  finished
+ rank =            0  running for source =            1  s_c =    5.82083321      0.264583319       3.17499995    
+ rank =            0 source - s =    5.82083321      0.264583319       3.17499995     sn =    0.00000000       0.00000000      0.630038917    
+ rank =            0 exiting get_deposition
+ rank =            0  running for source =            2  s_c =    6.08541679      0.529166639       3.17499995    
+ rank =            0 source - s =    6.08541679      0.529166639       3.17499995     sn =   -0.00000000       0.00000000      0.630038917    
+ rank =            0 exiting get_deposition
+ rank =            0  running for source =            3  s_c =    5.82083321       1.05833328       3.17499995    
+ rank =            0 source - s =    5.82083321       1.05833328       3.17499995     sn =    0.00000000       0.00000000      0.630038917    
+ rank =            0 exiting get_deposition
+ rank =            0  running for source =            4  s_c =    6.08541679       1.32291663       3.17499995    
+ rank =            0 source - s =    6.08541679       1.32291663       3.17499995     sn =   -0.00000000       0.00000000      0.630038917    
+ rank =            0 exiting get_deposition
+ rank =            0  running for source =            5  s_c =    5.82083321       1.85208321       3.17499995    
+ rank =            0 source - s =    5.82083321       1.85208321       3.17499995     sn =    0.00000000       0.00000000      0.630038857    
+ rank =            0 exiting get_deposition
+ rank =            0  running for source =            6  s_c =    6.08541679       2.11666656       3.17499995    
+ rank =            0 source - s =    6.08541679       2.11666656       3.17499995     sn =   -0.00000000       0.00000000      0.630038857    
+ rank =            0 exiting get_deposition
+ rank =            0  running for source =            7  s_c =    5.82083321       2.64583325       3.17499995    
+ rank =            0 source - s =    5.82083321       2.64583325       3.17499995     sn =    0.00000000       0.00000000      0.630038977    
+ rank =            0 exiting get_deposition
+ rank =            0  running for source =            8  s_c =    6.08541679       2.91041660       3.17499995    
+ rank =            0 source - s =    6.08541679       2.91041660       3.17499995     sn =   -0.00000000       0.00000000      0.630038977    
+ rank =            0 exiting get_deposition
+ rank =            0  finished
+ rank =            4  running for source =            1  s_c =    4.49791670       1.32291663       3.17499995    
+ rank =            4 source - s =    4.49791670       1.32291663       3.17499995     sn =    0.00000000       0.00000000      0.630038917    
+ rank =            4 exiting get_deposition
+ rank =            4  running for source =            2  s_c =    4.23333311       1.05833328       3.17499995    
+ rank =            4 source - s =    4.23333311       1.05833328       3.17499995     sn =    0.00000000       0.00000000      0.630038917    
+ rank =            4 exiting get_deposition
+ rank =            4  running for source =            3  s_c =    3.70416665       2.91041660       3.17499995    
+ rank =            4 source - s =    3.70416665       2.91041660       3.17499995     sn =    0.00000000       0.00000000      0.630039155    
+ rank =            4 exiting get_deposition
+ rank =            4  running for source =            4  s_c =    3.43958354       2.64583325       3.17499995    
+ rank =            4 source - s =    3.43958354       2.64583325       3.17499995     sn =    0.00000000       0.00000000      0.630039155    
+ rank =            4 exiting get_deposition
+ rank =            4  running for source =            5  s_c =    3.70416665       2.11666656       3.17499995    
+ rank =            4 source - s =    3.70416665       2.11666656       3.17499995     sn =    0.00000000       0.00000000      0.630039036    
+ rank =            4 exiting get_deposition
+ rank =            4  running for source =            6  s_c =    3.43958354       1.85208333       3.17499995    
+ rank =            4 source - s =    3.43958354       1.85208333       3.17499995     sn =    0.00000000       0.00000000      0.630039036    
+ rank =            4 exiting get_deposition
+ rank =            4  running for source =            7  s_c =    3.70416665       1.32291663       3.17499995    
+ rank =            4 source - s =    3.70416665       1.32291663       3.17499995     sn =    0.00000000       0.00000000      0.630039096    
+ rank =            4 exiting get_deposition
+ rank =            4  running for source =            8  s_c =    3.43958354       1.05833328       3.17499995    
+ rank =            4 source - s =    3.43958354       1.05833328       3.17499995     sn =    0.00000000       0.00000000      0.630039096    
+ rank =            4 exiting get_deposition
+ rank =            4  finished
+ rank =            6  running for source =            1  s_c =    2.11666656       2.11666656       3.17499995    
+ rank =            6 source - s =    2.11666656       2.11666656       3.17499995     sn =    0.00000000       0.00000000      0.630038977    
+ rank =            6 exiting get_deposition
+ rank =            6  running for source =            2  s_c =    1.85208333       1.85208333       3.17499995    
+ rank =            6 source - s =    1.85208333       1.85208333       3.17499995     sn =    0.00000000       0.00000000      0.630038977    
+ rank =            6 exiting get_deposition
+ rank =            6  running for source =            3  s_c =    2.11666656       1.32291663       3.17499995    
+ rank =            6 source - s =    2.11666656       1.32291663       3.17499995     sn =    0.00000000       0.00000000      0.630038977    
+ rank =            6 exiting get_deposition
+ rank =            6  running for source =            4  s_c =    1.85208333       1.05833328       3.17499995    
+ rank =            6 source - s =    1.85208333       1.05833328       3.17499995     sn =    0.00000000       0.00000000      0.630038977    
+ rank =            6 exiting get_deposition
+ rank =            6  running for source =            5  s_c =    1.32291663       2.91041660       3.17499995    
+ rank =            6 source - s =    1.32291663       2.91041660       3.17499995     sn =    0.00000000       0.00000000      0.630039096    
+ rank =            6 exiting get_deposition
+ rank =            6  running for source =            6  s_c =    1.05833328       2.64583325       3.17499995    
+ rank =            6 source - s =    1.05833328       2.64583325       3.17499995     sn =    0.00000000       0.00000000      0.630039096    
+ rank =            6 exiting get_deposition
+ rank =            6  running for source =            7  s_c =    1.32291663       2.11666656       3.17499995    
+ rank =            6 source - s =    1.32291663       2.11666656       3.17499995     sn =    0.00000000       0.00000000      0.630038977    
+ rank =            6 exiting get_deposition
+ rank =            6  running for source =            8  s_c =    1.05833328       1.85208333       3.17499995    
+ rank =            6 source - s =    1.05833328       1.85208333       3.17499995     sn =    0.00000000       0.00000000      0.630038977    
+ rank =            6 exiting get_deposition
+ rank =            6  finished
