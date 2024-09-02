@@ -9,9 +9,9 @@ How to use
 2. Use generate_geom.py to read data from stl files into `.DAT` files that fortran can read. 
 3. Modify `source_cyl.f90` or `source_ref.f90`
    * Feed the paths of all `.DAT` files
-   * Decide on the number of chunks the input target should be sub-divided into
+   * Decide on the number of chunks the input target should be sub-divided into. 
    * Give appropriate names to output files.
-4. Complie using any mpi based compiler and launch on a cluster using `launch.sh`. The problem is 'embarrasingly parallel' so more cores is linearly faster
+4. Complie using `mpif90` and launch on a cluster using `launch.sh`. The problem is 'embarrasingly parallel' so more cores is linearly faster.
 5. Use `save_obj.py` to save the result as an `.obj` file
 
 `.obj` files can be accessed and viewed using blender. 
