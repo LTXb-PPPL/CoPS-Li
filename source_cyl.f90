@@ -120,7 +120,7 @@ program source_cyl
 	
 
 
-	chunks = 233
+	chunks = 37012
 
 	!print *, 'target divided in to chunks = ', chunk
 	nt_ch = size(t_x,1)/chunks

@@ -1,0 +1,21 @@
+==========================================
+SLURM_JOB_ID = 140329
+SLURM_JOB_NODELIST = flux-node[07,11,13-15]
+SLURM_NTASKS = 640
+SLURM_NNODES = 5
+SLURM_NPROCS = 640
+SLURM_MEM_PER_CPU = 
+TMPDIR = /scratch/local/amaan/SLURM_140329
+TMPDIR_LOCAL = /scratch/local/amaan/SLURM_140329
+TMPDIR_SHARED = /scratch/shared/amaan/SLURM_140329
+==========================================
+flux-node[07,11,13-15]
+640
+140329
+/p/ltxdata/Li_evporator/composite_surface
+[flux-node07.local:2028689] PMIX ERROR: PMIX_ERR_NOT_SUPPORTED in file gds_shmem.c at line 240
+/var/spool/slurmd/job140329/slurm_script: line 15: 2028689 Aborted                 (core dumped) mpirun --verbose -np $SLURM_NTASKS chunks_37012_ltx_so.o
+
+real	0m5.061s
+user	0m0.077s
+sys	0m0.325s

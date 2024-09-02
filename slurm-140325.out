@@ -1,0 +1,29 @@
+==========================================
+SLURM_JOB_ID = 140325
+SLURM_JOB_NODELIST = flux-node[07,11,13-14]
+SLURM_NTASKS = 512
+SLURM_NNODES = 4
+SLURM_NPROCS = 512
+SLURM_MEM_PER_CPU = 
+TMPDIR = /scratch/local/amaan/SLURM_140325
+TMPDIR_LOCAL = /scratch/local/amaan/SLURM_140325
+TMPDIR_SHARED = /scratch/shared/amaan/SLURM_140325
+==========================================
+flux-node[07,11,13-14]
+512
+140325
+/p/ltxdata/Li_evporator/composite_surface
+ rank =            0  starting chunk            1 starting at -            1  ending at -           76
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 281 with PID 2151045 on node flux-node13 exited on signal 9 (Killed).
+--------------------------------------------------------------------------
+3 total processes killed (some possibly by mpirun during cleanup)
+
+real	0m17.182s
+user	8m53.041s
+sys	15m9.620s
+slurmstepd: error: Detected 19 oom_kill events in StepId=140325.batch. Some of the step tasks have been OOM Killed.

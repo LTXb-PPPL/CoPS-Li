@@ -112,7 +112,7 @@ program source_ref
 	obs_p3(n_t+1:n_o,2) = ro_y(:,3)
 	obs_p3(n_t+1:n_o,3) = ro_z(:,3)
 
-	chunks = 233
+	chunks = 37012
 
 	!print *, 'target divided in to chunks = ', chunk
 	nt_ch = size(t_x,1)/chunks

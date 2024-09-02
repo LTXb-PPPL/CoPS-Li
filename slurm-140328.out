@@ -1,0 +1,60 @@
+==========================================
+SLURM_JOB_ID = 140328
+SLURM_JOB_NODELIST = flux-node07
+SLURM_NTASKS = 64
+SLURM_NNODES = 1
+SLURM_NPROCS = 64
+SLURM_MEM_PER_CPU = 
+TMPDIR = /scratch/local/amaan/SLURM_140328
+TMPDIR_LOCAL = /scratch/local/amaan/SLURM_140328
+TMPDIR_SHARED = /scratch/shared/amaan/SLURM_140328
+==========================================
+flux-node07
+64
+140328
+/p/ltxdata/Li_evporator/composite_surface
+ rank =            0  chunk =            1  start =            1  end =            4
+ rank =            0  chunk =            2  start =            5  end =            8
+ rank =            0  chunk =            3  start =            9  end =           12
+ rank =            0  chunk =            4  start =           13  end =           16
+ rank =            0  chunk =            5  start =           17  end =           20
+ rank =            0  chunk =            6  start =           21  end =           24
+ rank =            0  chunk =            7  start =           25  end =           28
+ rank =            0  chunk =            8  start =           29  end =           32
+ rank =            0  chunk =            9  start =           33  end =           36
+ rank =            0  chunk =           10  start =           37  end =           40
+ rank =            0  chunk =           11  start =           41  end =           44
+ rank =            0  chunk =           12  start =           45  end =           48
+ rank =            0  chunk =           13  start =           49  end =           52
+ rank =            0  chunk =           14  start =           53  end =           56
+ rank =            0  chunk =           15  start =           57  end =           60
+ rank =            0  chunk =           16  start =           61  end =           64
+ rank =            0  chunk =           17  start =           65  end =           68
+ rank =            0  chunk =           18  start =           69  end =           72
+ rank =            0  chunk =           19  start =           73  end =           76
+ rank =            0  chunk =           20  start =           77  end =           80
+ rank =            0  chunk =           21  start =           81  end =           84
+ rank =            0  chunk =           22  start =           85  end =           88
+ rank =            0  chunk =           23  start =           89  end =           92
+ rank =            0  chunk =           24  start =           93  end =           96
+ rank =            0  chunk =           25  start =           97  end =          100
+ rank =            0  chunk =           26  start =          101  end =          104
+ rank =            0  chunk =           27  start =          105  end =          108
+ rank =            0  chunk =           28  start =          109  end =          112
+ rank =            0  chunk =           29  start =          113  end =          116
+ rank =            0  chunk =           30  start =          117  end =          120
+ rank =            0  chunk =           31  start =          121  end =          124
+ rank =            0  chunk =           32  start =          125  end =          128
+ rank =            0  chunk =           33  start =          129  end =          132
+ rank =            0  chunk =           34  start =          133  end =          136
+ rank =            0  chunk =           35  start =          137  end =          140
+ rank =            0  chunk =           36  start =          141  end =          144
+ rank =            0  chunk =           37  start =          145  end =          148
+ rank =            0  chunk =           38  start =          149  end =          152
+ rank =            0  chunk =           39  start =          153  end =          156
+ rank =            0  chunk =           40  start =          157  end =          160
+ rank =            0  chunk =           41  start =          161  end =          164
+ rank =            0  chunk =           42  start =          165  end =          168
+ rank =            0  chunk =           43  start =          169  end =          172
+slurmstepd: error: *** JOB 140328 ON flux-node07 CANCELLED AT 2024-09-02T17:10:04 ***
+ rank =            0  chunk =           44  start =          173  end =          176
